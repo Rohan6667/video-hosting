@@ -140,4 +140,10 @@
                 $('select').addClass('btn');
             });
         </script>
-    </body></html>
+    </body>
+    <footer class="footer" style="position:fixed;bottom:0px;">
+        <div class="container">
+            <p class="text-muted">by Jamshad Ahmad for Coeus Solutions.</p>
+        </div>
+    </footer>
+</html>
