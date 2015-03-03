@@ -133,6 +133,7 @@ $up_id = uniqid();
                 <select id="multi" name="genre"  class="btn">
                     <option value="null">Select Genre/type</option>
                     <option value="Action">Action</option>
+                    <option value="Animation">Animation</option>
                     <option value="Biography">Biography</option>
                     <option value="Bollywood">Bollywood</option>
                     <option value="Drama">Drama</option>
